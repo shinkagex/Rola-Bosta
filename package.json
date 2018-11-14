@@ -1,0 +1,24 @@
+{
+  "name": "rolador",
+  "version": "1.0.0",
+  "description": "Bot de Rolar Waifu Bosta",
+  "main": "rolador.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-schedule": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinkagex/Rola-Bosta.git"
+  },
+  "author": "ShinkageX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinkagex/Rola-Bosta/issues"
+  },
+  "homepage": "https://github.com/shinkagex/Rola-Bosta#readme"
+}
